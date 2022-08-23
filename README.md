@@ -1,1 +1,1 @@
-# ml-final-project-afonso-diela
+# capstone-project-ibm-data-science-course
